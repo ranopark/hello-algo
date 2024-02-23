@@ -27,10 +27,10 @@ theme:
     - content.code.copy
     - content.tabs.link
     - content.tooltips
-    # - header.autohide
-    # - navigation.expand
+    - header.autohide
+    - navigation.expand
     - navigation.indexes
-    # - navigation.instant
+    - navigation.instant
     # - navigation.prune
     # - navigation.sections
     # - navigation.tabs
